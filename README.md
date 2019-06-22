@@ -48,3 +48,5 @@ Please write an auto-encoder to obtain the 2-dimensional code of the image in th
 Source code 
 Figure (a scatterplot about the 2-dimensional code for the test set, please use different colors to distinguish different digits)
 
+Mid and Final PJ:
+Implement a complete project with the algorithms related to machine learning and artificial intelligence. 
