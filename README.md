@@ -1,6 +1,6 @@
 # Machine-Learning-and-AI
 
-Homework1
+Homework1:
 Build a classifier for iris type classification: (logistic regression or PGM)
 
 Dataset:
